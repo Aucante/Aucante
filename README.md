@@ -5,7 +5,7 @@ https://sebastienaucante.com
 
 ### PHP / Symfony Developer
 
-### Hi, I'm Sebastien from France, Back-end developper PHP/Symfony, I do content on Development and Freelancing. I really enjoy learning languages and technologies like PHP, JS, Symfony, Webpack, VueJS, Vuetify, Bootstrap, etc.
+### Hi, I'm Sebastien from France, Back-end developper PHP/Symfony, I do content on Development. I really enjoy learning languages and technologies like PHP, JS, Symfony, Webpack, VueJS, Vuetify, Bootstrap, etc.
 
 - 🔭 I’m currently working on a project, https://adriaticante.com. (Real Estate located in Adriatic area).
 - 🌱 I’m currently learning Docker and Linux.
