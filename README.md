@@ -5,7 +5,7 @@ https://sebastienaucante.com
 
 ### PHP / Symfony Developer
 
-### I'm Sebastien from France, Back-end developper PHP/Symfony.
+### Sebastien Aucante, Back-end developper PHP/Symfony.
 
 - 🔭 I’m currently working on a project, https://adriaticante.com. (Real Estate located in Adriatic area).
 - 🌱 I’m currently learning Docker and Linux.
