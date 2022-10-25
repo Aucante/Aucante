@@ -10,8 +10,7 @@ https://sebastienaucante.com
 - 🔭 I’m currently working on a project, https://adriaticante.com. (Real Estate located in Adriatic area).
 - 🌱 I’m currently learning Docker and Linux.
 - 👯 I’m looking to collaborate on French companies.
-- 📫 How to reach me: sebastien.aucante.pro@gmail.com / instagram / LinkedIn.
-- ⚡ Fun fact: Passionate about travel, nature and discovery.
+- 📫 How to reach me: sebastien.aucante.pro@gmail.com / instagram / LinkedIn=
 
 
 ### Technos :
