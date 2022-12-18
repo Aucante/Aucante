@@ -6,11 +6,7 @@ https://sebastienaucante.com
 ### PHP / Symfony Developer
 
 ### Sebastien Aucante, Back-end developper PHP/Symfony.
-
-- 🔭 https://adriaticante.com. (Real Estate located in Adriatic area).
-- 🌱 I’m currently learning Docker and Linux.
-- 👯 I’m looking to collaborate on French companies.
-- 📫 How to reach me: sebastien.aucante.pro@gmail.com / instagram / LinkedIn=
+📫 To reach me: sebastien.aucante.pro@gmail.com / instagram / LinkedIn=
 
 
 ### Technos :
