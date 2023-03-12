@@ -6,7 +6,7 @@ https://sebastienaucante.com
 ### PHP / Symfony Laravel Developer
 
 ### Sebastien Aucante - Back-end developper PHP/Symfony.
-📫 To reach me: sebastien.aucante.pro@gmail.com / LinkedIn
+📫 To reach me: sebastien.aucante.pro@gmail.com
 
 
 ### Technos :
